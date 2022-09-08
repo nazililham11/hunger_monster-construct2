@@ -1,5 +1,6 @@
 # Hunger Moster
 ![Logo](assets/logo.png)
+
 Dalam game ini, player dapat melihat level dengan tampilan gulir ke samping. seluruh level didalam game ini dibangun dengan masing-masing objek berada di tempatnya masing-masing, player hanya bisa melihat level yang sudah di selesainkanya. Game ini bergenre  puzzle untuk usia 10 tahun keatas dan di dalam game 2D ini menceritakan pelarian makhluk seperti monster (Subjek Uji coba) dari laboratorium percobaan bernama Ge-prex. Kami perkenalkan player dengan karakter utama kami ketika kekacauan meletus di lab Ge-prex tempat ia ditahan, dan player harus membantunya mencapai kebebasan dengan memecahkan teka-teki dan mengalahkan musuh di sepanjang jalan.
 
 ## Difficulty level
@@ -43,8 +44,8 @@ Sewers area untuk monster cairan acid A-sem
 
 
 ## Tim
-- alfarizi : desain grafik
-- me : programing
-- adi : ide game
+- [alf](https://github.com/alfrz23) : Desain grafik
+- [me](https://github.com/nazililham11) : Programing
+- adi : Konsep game
 
 ![Logo](assets/pooop.png)
